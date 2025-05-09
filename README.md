@@ -8,8 +8,7 @@ Este proyecto realiza un Análisis Exploratorio de Datos (EDA) sobre un dataset 
 - Determinar si las marcas premium tienen precios más altos.
 - Comparar precios entre coches automáticos y manuales.
 - Analizar cómo la ubicación influye en el precio.
-- Confirmar si el kilometraje reduce el precio de los coches.
-- Evaluar si el paso de los años de un vehículo reduce su valor.
+- Confirmar si el kilometraje reduce el precio de los coches y evaluar si el paso de los años de un vehículo reduce su valor.
 
 ## Dataset
 El dataset contiene información de miles de coches de segunda mano, con columnas como:
